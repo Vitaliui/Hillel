@@ -8,3 +8,6 @@ print(sys.argv[0])
 #print(math.pi)
 print(pi)
 print(e)
+
+name = input("Enter your name: ")
+print("Hello,", name, "!")
